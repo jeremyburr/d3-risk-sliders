@@ -2,15 +2,15 @@ body {
   font-family: arial
 }
 .axis text {
-	font: 10px sans-serif;
+  font: 10px sans-serif;
 } 
 .axis path {
-	stroke: url("#lineargradient");
-	stroke-width: 28px;
-	shape-rendering: crispEdges;
+  stroke: url("#lineargradient");
+  stroke-width: 28px;
+  shape-rendering: crispEdges;
 } 
 .axis line {
-	stroke: #666; 
+  stroke: #666; 
  }
 .callout {
    overflow: hidden; 
