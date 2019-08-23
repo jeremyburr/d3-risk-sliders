@@ -1,2 +1,2 @@
 # d3-risk-sliders
-Simple risk slider charts with React and D3
+Simple risk slider charts exercise using React and D3
